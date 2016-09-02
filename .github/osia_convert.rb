@@ -61,31 +61,28 @@ def output_apps(apps)
     o <<  "<details><summary>"
 
     details = if tags.nil?
-      '`objc`'
+      '`objc` '
     else
       ''
     end
 
+    unless tags.nil?
+      details << '`swift` ' if tags.include? 'swift'
 
-      unless tags.nil?
-        details << '`swift` ' if tags.include? 'swift'
-
-        tags.each do |t|
-          details << "`#{t.downcase}` " if t.downcase!='swift'
-        end
+      tags.each do |t|
+        details << "`#{t.downcase}` " if t.downcase!='swift'
       end
+    end
 
-      unless lang.nil?
-        details << output_flag(lang)
-        details << ' '
-      end
+    unless lang.nil?
+      details << output_flag(lang)
+      details << ' '
+    end
 
-      unless stars.nil?
-        details << output_stars(stars)
-      end
-
-      o << details
-    # end
+    unless stars.nil?
+      details << output_stars(stars)
+    end
+    o << details
 
     o << "</summary>"
 
@@ -240,7 +237,6 @@ def write_archive(j)
     t = a['title']
     s = a['source']
     output << "- #{t} #{s}\n"
-    # output <<
   end
 
   output << "\n"
