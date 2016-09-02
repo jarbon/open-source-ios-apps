@@ -56,32 +56,36 @@ def output_apps(apps)
     unless itunes.nil?
       t << "[` App Store`](#{itunes}) "
     end
-
-    unless lang.nil?
-      t << output_flag(lang)
-    end
-
-    unless stars.nil?
-      t << output_stars(stars)
-    end
     o << "- #{t} \n"
 
     o <<  "<details><summary>"
-    if tags.nil?
-      o << '`objc`'
+
+    details = if tags.nil?
+      '`objc`'
     else
-      details = ''
+      ''
+    end
+
 
       unless tags.nil?
         details << '`swift` ' if tags.include? 'swift'
+
+        tags.each do |t|
+          details << "`#{t.downcase}` " if t.downcase!='swift'
+        end
       end
 
-      tags.each do |t|
-        details << "`#{t.downcase}` " if t.downcase!='swift'
+      unless lang.nil?
+        details << output_flag(lang)
+        details << ' '
       end
+
+      unless stars.nil?
+        details << output_stars(stars)
+      end
+
       o << details
-      # o << "\n"
-    end
+    # end
 
     o << "</summary>"
 
