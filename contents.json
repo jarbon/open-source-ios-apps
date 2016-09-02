@@ -22,16 +22,16 @@
       "id": "calendar"
     },
     {
+      "title": "Clone",
+      "id": "clone"
+    },
+    {
       "title": "Communication",
       "id": "communication"
     },
     {
       "title": "Conference",
       "id": "conference"
-    },
-    {
-      "title": "Clone",
-      "id": "clone"
     },
     {
       "title": "Developer",
@@ -1569,7 +1569,7 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "2048 in Swift",
+      "title": "2048",
       "category-ids": [
         "game",
         "clone"
@@ -1800,10 +1800,15 @@
       "category-ids": [
         "spritekit"
       ],
-      "description": "A simple digital worm game made with iOS 9, SpriteKit, GameplayKit & ReplayKit, written in Swift 2",
+      "description": "A simple digital worm game",
       "source": "https://github.com/gamechina/GrubbyWorm",
       "tags": [
-        "swift"
+        "swift",
+        "swift2",
+        "ios9",
+        "SpriteKit",
+        "GameplayKit",
+        "replaykit"
       ],
       "stars": 31,
       "license": "other",
@@ -1964,7 +1969,7 @@
       "category-ids": [
         "researchkit"
       ],
-      "description": "ResearchKit app studying Asthma",
+      "description": "Asthma study",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/AsthmaHealth",
       "itunes": "https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668",
@@ -1993,7 +1998,7 @@
       "category-ids": [
         "researchkit"
       ],
-      "description": "ResearchKit app studying Diabetes",
+      "description": "Diabetes study",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/GlucoSuccess",
       "itunes": "https://itunes.apple.com/app/glucosuccess/id972143976",
@@ -2006,10 +2011,11 @@
       "category-ids": [
         "health"
       ],
-      "description": "HealthKit sample app",
+      "description": "Sample app",
       "source": "https://github.com/Darktt/HealthKit-Swift",
       "tags": [
-        "swift"
+        "swift",
+        "healthkit"
       ],
       "stars": 48,
       "license": "other",
@@ -2038,7 +2044,7 @@
       "category-ids": [
         "fitness"
       ],
-      "description": "A Strength Logger is a simple logging app for strength athletes",
+      "description": "Simple logging app for strength athletes",
       "source": "https://github.com/brettalcox/logU-swift",
       "itunes": "https://itunes.apple.com/app/logu-a-strength-logger/id1084487510",
       "tags": [
@@ -2054,7 +2060,7 @@
       "category-ids": [
         "researchkit"
       ],
-      "description": "ResearchKit app studying Parkinson's disease",
+      "description": "Parkinson's disease study",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/mPower",
       "itunes": "https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200",
@@ -2093,7 +2099,7 @@
       "category-ids": [
         "researchkit"
       ],
-      "description": "ResearchKit app studying Breast Cancer",
+      "description": "Breast cancer study",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/ShareTheJourney",
       "itunes": "https://itunes.apple.com/app/share-the-journey/id972180604",
@@ -2197,7 +2203,7 @@
       "category-ids": [
         "keyboard"
       ],
-      "description": "An open source, customizable, iOS keyboard",
+      "description": "Customizable keyboard",
       "source": "https://github.com/Brimizer/Slidden",
       "stars": 484,
       "license": "mit",
@@ -2410,7 +2416,7 @@
     {
       "title": "Swift-Walk-Tracker",
       "category-ids": [
-        "location"
+        "fitness"
       ],
       "description": "Track your walks",
       "source": "https://github.com/kevinvanderlugt/Swift-Walk-Tracker",
@@ -2472,10 +2478,12 @@
       "category-ids": [
         "media"
       ],
-      "description": "Analog Synthesizer Keyboard Music App, created with Swift 2 ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX))",
+      "description": "Analog synthesizer keyboard music app",
       "source": "http://matthewfecher.com/app-developement/swift-synth/",
+      "homepage": "https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX",
       "tags": [
-        "swift"
+        "swift",
+        "swift2"
       ],
       "screenshots": ["https://cdn-images-1.medium.com/max/800/1*hj0rxmPvapxpY1URdvw97A.png"],
       "license": "mit",
@@ -2513,7 +2521,8 @@
       "category-ids": [
         "media"
       ],
-      "description": "Import photos from an Instagram user and make a collage",
+      "tags": ["instagram api"],
+      "description": "Make photo collages",
       "source": "https://github.com/Azoft/CollageMaker-iOS",
       "stars": 30,
       "license": "mit",
@@ -2618,9 +2627,10 @@
     {
       "title": "Flickr-Search",
       "category-ids": [
-        "content"
+        "content",
+        "flickr api"
       ],
-      "description": "Simple app which consumes the Flickr Search API",
+      "description": "Photo search",
       "source": "https://github.com/alikaragoz/Flickr-Search",
       "stars": 18,
       "license": "other",
@@ -2742,11 +2752,12 @@
       "category-ids": [
         "content"
       ],
-      "description": "A simple iOS Instagram photo browser",
+      "description": "Simple Instagram photo browser",
       "source": "https://github.com/MoZhouqi/PhotoBrowser",
       "stars": 472,
       "tags": [
-        "swift"
+        "swift",
+        "instagram api"
       ],
       "license": "other",
       "date_added": "Tue Mar 31 06:55:38 2015 -0700",
@@ -2757,7 +2768,7 @@
       "category-ids": [
         "gif"
       ],
-      "description": "House all your favorite GIFs and easily share them with your friends and family",
+      "description": "House all your favorite GIFs and easily share them with your friends & family",
       "license": "mit",
       "source": "https://github.com/thoughtbot/poppins",
       "itunes": "https://itunes.apple.com/app/poppins/id978854068",
@@ -2773,7 +2784,7 @@
       "category-ids": [
         "content"
       ],
-      "description": "Listen to any song from Phish.in and view concert ratings and reviews from phish.net",
+      "description": "Listen to any song from phish.in and view concert ratings and reviews from phish.net",
       "source": "https://github.com/alecgorge/PhishOD-iOS",
       "itunes": "https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018",
       "stars": 34,
@@ -2888,12 +2899,13 @@
       "category-ids": [
         "content"
       ],
-      "description": "Flickr popular photo viewer",
+      "description": "Popular Flickr photos",
       "license": "mit",
       "source": "https://github.com/synboo/SwiftFlickrApp",
       "stars": 341,
       "tags": [
-        "swift"
+        "swift",
+        "flickr api"
       ],
       "date_added": "Tue May 5 07:33:10 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -2903,13 +2915,14 @@
       "category-ids": [
         "media"
       ],
-      "description": "Professional radio station app, created with Swift 2",
+      "description": "Professional radio station app",
       "license": "mit",
       "source": "https://github.com/swiftcodex/Swift-Radio-Pro",
       "stars": 1375,
       "screenshots": ["https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png "],
       "tags": [
-        "swift"
+        "swift",
+        "swift2"
       ],
       "date_added": "Sun Jan 24 17:39:00 2016 -0700",
       "suggested_by": "@swiftcodex"
@@ -3535,11 +3548,12 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Sample app that integrates Layer & Atlas with Parse",
       "license": "apache-2.0",
       "source": "https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example",
       "tags": [
-        "swift"
+        "swift",
+        "parse",
+        "atlas"
       ],
       "stars": 116,
       "date_added": "Mon Jan 25 08:14:18 2016 -0800",
@@ -3964,12 +3978,12 @@
       "category-ids": [
         "weather"
       ],
-      "description": "Weather app for Typhoon",
       "license": "apache-2.0",
       "source": "https://github.com/appsquickly/Typhoon-Swift-Example",
       "stars": 332,
       "tags": [
-        "swift"
+        "swift",
+        "Typhoon"
       ],
       "date_added": "Tue Mar 24 10:16:48 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -4056,10 +4070,8 @@
     {
       "title": "Weather by jsphkhan",
       "category-ids": [
-        "weather",
         "react-native"
       ],
-      "description": "Weather app, uses React Native",
       "homepage": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp",
       "source": "https://github.com/jsphkhan/ReactNativeExamples",
       "license": "mit",
@@ -4272,7 +4284,7 @@
       "category-ids": [
         "media"
       ],
-      "description": "Analyze choose or take a photo of your face and the app will tell you your emotion",
+      "description": "Choose or take a photo of your face and the app will tell you your emotion",
       "license": "mit",
       "source": "https://github.com/Yogayu/EmotionNote",
       "tags": [
@@ -4554,7 +4566,7 @@
     {
       "title": "Runner-Stats",
       "category-ids": [
-        "misc"
+        "fitness"
       ],
       "tags": [
         "iphone"
@@ -4625,7 +4637,7 @@
     {
       "title": "TrollDrop",
       "category-ids": [
-        "misc"
+        "communication"
       ],
       "description": "AirDrop trollfaces to everyone",
       "license": "mit",
@@ -6084,7 +6096,7 @@
       "category-ids": [
         "researchkit"
       ],
-      "description": "ResearchKit app that provides an easy test for colorblind people",
+      "description": "Easy test for colorblind people",
       "source": "https://github.com/boostcode/ResearchKit-ColorBlind",
       "itunes": "https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412",
       "tags": [
@@ -6390,7 +6402,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "The character management tool for EveOnline MMORG",
+      "description": "EveOnline MMORG character management tool",
       "license": "lgpl-2.1",
       "source": "https://github.com/mrdepth/Neocom",
       "itunes": "https://itunes.apple.com/app/eveuniverse/id418895101",
@@ -6487,7 +6499,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "Play hundreds of free works of Interactive Fiction (a.k.a. text adventure games)",
+      "description": "Play hundreds of free works of Interactive Fiction (text adventure games)",
       "source": "https://github.com/ifrotz/iosfrotz",
       "homepage": "https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md",
       "itunes": "https://itunes.apple.com/app/id287653015",
@@ -6885,7 +6897,7 @@
       "category-ids": [
         "location"
       ],
-      "description": "Online map for locating wheelchair-accessible places",
+      "description": "Map to locate wheelchair-accessible places",
       "source": "https://github.com/sozialhelden/wheelmap-iphone2",
       "homepage": "http://wheelmap.org",
       "itunes": "https://itunes.apple.com/app/id399239476",
@@ -6927,7 +6939,7 @@
       "category-ids": [
         "media"
       ],
-      "description": "Create and share memes!",
+      "description": "Create and share memes",
       "source": "https://github.com/MemeMaker/Meme-Maker-iOS",
       "itunes": "https://itunes.apple.com/app/id962121383",
       "tags": [
@@ -7082,7 +7094,7 @@
       "category-ids": [
         "react-native"
       ],
-      "description": "React Native to-do list app which uses Redux for managing app state",
+      "description": "Uses Redux for managing app state",
       "source": "https://github.com/uiheros/react-native-redux-todo-list",
       "license": "mit",
       "stars": 11,
@@ -7225,10 +7237,11 @@
         "media",
         "game"
       ],
-      "description": "Introduction to iOS & Swift / memory game implementation fetching images from Instagram",
+      "description": "Introduction to iOS & Swift / memory game implementation",
       "source": "https://github.com/Sajjon/SwiftIntro",
       "tags": [
-        "swift"
+        "swift",
+        "instagram api"
       ],
       "license": "gpl-3.0",
       "stars": 32,
@@ -7275,7 +7288,8 @@
       "category-ids": [
         "health"
       ],
-      "description": "A HealthKit powered menstrual cycle tracker",
+      "tags": ["healthkit"],
+      "description": "Menstrual cycle tracker",
       "license": "other",
       "tags": [
         "swift"
@@ -7303,7 +7317,7 @@
       "category-ids": [
         "location"
       ],
-      "description": "Track GPS devices on map",
+      "description": "Track GPS devices on a map",
       "license": "apache-2.0",
       "source": "https://github.com/tananaev/traccar-manager-ios",
       "itunes": "https://itunes.apple.com/us/app/traccar-manager/id1113966562",
@@ -7430,7 +7444,7 @@
       "suggested_by": "@JRock007"
     },
     {
-      "title": "DropColour Game in Swift 2.2",
+      "title": "DropColour",
       "category-ids": [
         "game"
       ],
@@ -7440,7 +7454,8 @@
       "stars": 47,
       "license": "mit",
       "tags": [
-        "swift"
+        "swift",
+        "swift2.2"
       ],
       "date_added": "Tue Jul 12 18:20:38 2016 +0200",
       "suggested_by": "Mateusz Szklarek"
@@ -8023,7 +8038,7 @@
       "category-ids": [
         "news"
       ],
-      "description": "Content Application for RSS",
+      "description": "RSS app",
       "source": "https://github.com/yavuz/Tenere",
       "itunes": "https://itunes.apple.com/tr/app/tenere-news-reader/id987277462",
       "stars": 13,
@@ -8070,7 +8085,6 @@
         "reactivecocoa",
         "gif"
       ],
-      "description": "Uses ReactiveCocoa",
       "source": "https://github.com/evgeniyd/Giraffe",
       "date_added": "Sep 1 2016",
       "suggested_by": "@akaralar",
@@ -8078,7 +8092,7 @@
         "https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png"
       ],
       "license": "mit",
-      "tags": ["swift"]
+      "tags": ["swift", "reactivecocoa"]
     },
     {
       "title": "iOS 10 Day by Day",
