@@ -372,7 +372,7 @@ Click ► to show more details
   </details>
 </details> 
 - Finance: iOS's Stocks app written in React Native  
-<details><summary>`objc`🔥🔥🔥</summary>  https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥🔥</summary>  https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - FlappySwift: Swift implementation of Flappy Bird  
@@ -506,7 +506,7 @@ Click ► to show more details
   </details>
 </details> 
 - Nortal TechDay 2015  
-<details><summary>`objc`🔥</summary>  https://github.com/mikkoj/NortalTechDay<br>  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥</summary>  https://github.com/mikkoj/NortalTechDay<br>  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Parse 2013 Developer Day  
@@ -1919,7 +1919,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - 30 days of React Native demos  
-<details><summary>`objc`🔥🔥🔥🔥</summary>  https://github.com/fangwei716/30-days-of-react-native<br>  Added August 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥🔥🔥</summary>  https://github.com/fangwei716/30-days-of-react-native<br>  Added August 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='30 days of React Native demos image 1' src='https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif'> 
 </div>
   </details>
@@ -2434,155 +2434,151 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - 2048: App by Facebook  
-<details><summary>`objc`</summary>  https://github.com/facebook/react-native/tree/master/Examples/2048<br>  Added February  5, 2016<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/facebook/react-native/tree/master/Examples/2048<br>  Added February  5, 2016<br>  License: `other`
   </details>
 </details> 
 - 30 days of React Native demos  
-<details><summary>`objc`🔥🔥🔥🔥</summary>  https://github.com/fangwei716/30-days-of-react-native<br>  Added August 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥🔥🔥</summary>  https://github.com/fangwei716/30-days-of-react-native<br>  Added August 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='30 days of React Native demos image 1' src='https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif'> 
 </div>
   </details>
 </details> 
-- allyoop: NBA game scores  
-<details><summary>`objc`🔥🔥🔥</summary>  https://github.com/wwayne/react-native-nba-app<br>  Added January  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
 - Around Me: Display Instagram photos around your location  
-<details><summary>`objc`🔥</summary>  https://github.com/bgryszko/react-native-example<br>  Added October 13, 2015<br>  License: `other`
+<details><summary>`reactnative` 🔥</summary>  https://github.com/bgryszko/react-native-example<br>  Added October 13, 2015<br>  License: `other`
   </details>
 </details> 
 - Assemblies: Developer-focused Meetup clone  
-<details><summary>`objc`🔥</summary>  https://github.com/buildreactnative/assemblies<br>  Added May  2, 2016<br>  License: `other`
+<details><summary>`reactnative` 🔥</summary>  https://github.com/buildreactnative/assemblies<br>  Added May  2, 2016<br>  License: `other`
   </details>
 </details> 
 - Calculator: React Native calculator  
-<details><summary>`objc`🔥🔥🔥🔥🔥</summary>  https://github.com/benoitvallon/react-native-nw-react-calculator<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/benoitvallon/react-native-nw-react-calculator<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Currency Converter  
-<details><summary>`objc`</summary>  https://github.com/ashwinpreet/ReactNativeExamples<br>  https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter<br>  Added May 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` </summary>  https://github.com/ashwinpreet/ReactNativeExamples<br>  https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter<br>  Added May 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Den: View houses for sale in the Northwest  
-<details><summary>`objc`🔥🔥</summary>  https://github.com/asamiller/den<br>  Added May 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥</summary>  https://github.com/asamiller/den<br>  Added May 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Dribbble  
-<details><summary>`objc`🔥🔥🔥🔥</summary>  https://github.com/catalinmiron/react-native-dribbble-app<br>  Added June 13, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥🔥🔥</summary>  https://github.com/catalinmiron/react-native-dribbble-app<br>  Added June 13, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - F8 2016: Official F8 app  
-<details><summary>`objc`🔥🔥🔥🔥🔥</summary>  https://github.com/fbsamples/f8app<br>  Added April 14, 2016<br>  License: `other`
+<details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/fbsamples/f8app<br>  Added April 14, 2016<br>  License: `other`
 <div><img height='300' alt='F8 2016 image 1' src='https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png'> 
 </div>
   </details>
 </details> 
 - Facebook Login  
-<details><summary>`objc`🔥🔥</summary>  https://github.com/brentvatne/react-native-login<br>  Added April 14, 2015<br>  License: `other`
+<details><summary>`reactnative` 🔥🔥</summary>  https://github.com/brentvatne/react-native-login<br>  Added April 14, 2015<br>  License: `other`
   </details>
 </details> 
 - Finance: iOS's Stocks app written in React Native  
-<details><summary>`objc`🔥🔥🔥</summary>  https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥🔥</summary>  https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Foreign Exchange  
-<details><summary>`objc`</summary>  https://github.com/peralmq/ForeignExchangeApp<br>  Added July 24, 2015<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/peralmq/ForeignExchangeApp<br>  Added July 24, 2015<br>  License: `other`
   </details>
 </details> 
-- HackerNews-React-Native [` App Store`](https://itunes.apple.com/app/hacker-news-reader-react-native/id1067161633)  
-<details><summary>`objc`🔥🔥🔥🔥🔥</summary>  https://github.com/iSimar/HackerNews-React-Native<br>  Added July 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+- Hacker News app by iSimar [` App Store`](https://itunes.apple.com/app/hacker-news-reader-react-native/id1067161633)  
+<details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/iSimar/HackerNews-React-Native<br>  Added July 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Hacker News app by jsdf  
+<details><summary>`reactnative` 🔥</summary>  https://github.com/jsdf/ReactNativeHackerNews<br>  Added March 30, 2016<br>  License: `other`
   </details>
 </details> 
 - Iceland Earthquakes  
-<details><summary>`objc`</summary>  https://github.com/paranoida/IcelandEarthquakes<br>  Added May  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` </summary>  https://github.com/paranoida/IcelandEarthquakes<br>  Added May  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - iTunes Catalog Search  
-<details><summary>`objc`</summary>  https://github.com/alexissan/ReactNativeWorkshop<br>  Added June 13, 2015<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/alexissan/ReactNativeWorkshop<br>  Added June 13, 2015<br>  License: `other`
   </details>
 </details> 
 - london-react  
-<details><summary>`objc`</summary>  https://github.com/JoeStanton/london-react<br>  Added August  2, 2015<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/JoeStanton/london-react<br>  Added August  2, 2015<br>  License: `other`
   </details>
 </details> 
 - Movies: App by Facebook  
-<details><summary>`objc`</summary>  https://github.com/facebook/react-native/tree/master/Examples/Movies<br>  Added February  5, 2016<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/facebook/react-native/tree/master/Examples/Movies<br>  Added February  5, 2016<br>  License: `other`
+  </details>
+</details> 
+- NBA allyoop: NBA game scores  
+<details><summary>`reactnative` 🔥🔥🔥</summary>  https://github.com/wwayne/react-native-nba-app<br>  Added January  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - NBAreact: NBA stats and standings  
-<details><summary>`objc`</summary>  https://github.com/jbkuczma/NBAreact<br>  Added July 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` </summary>  https://github.com/jbkuczma/NBAreact<br>  Added July 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - newswatch: News app based on YouTube playlists  
-<details><summary>`objc`</summary>  https://github.com/bradoyler/newswatch-react-native<br>  Added May 15, 2015<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/bradoyler/newswatch-react-native<br>  Added May 15, 2015<br>  License: `other`
   </details>
 </details> 
 - Nortal TechDay 2015  
-<details><summary>`objc`🔥</summary>  https://github.com/mikkoj/NortalTechDay<br>  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- Parse 2013 Developer Day  
-<details><summary>`objc`</summary>  https://github.com/ParsePlatform/ParseDeveloperDay<br>  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
+<details><summary>`reactnative` 🔥</summary>  https://github.com/mikkoj/NortalTechDay<br>  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - PocketNode: Lightweight Node REPL  
-<details><summary>`objc`</summary>  https://github.com/mzabriskie/PocketNode<br>  Added February  4, 2016<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/mzabriskie/PocketNode<br>  Added February  4, 2016<br>  License: `other`
   </details>
 </details> 
 - Product Kitty: Product Hunt app  
-<details><summary>`objc`🔥</summary>  https://github.com/rkho/product-kitty<br>  Added September  2, 2015<br>  License: `other`
+<details><summary>`reactnative` 🔥</summary>  https://github.com/rkho/product-kitty<br>  Added September  2, 2015<br>  License: `other`
   </details>
 </details> 
 - Property Finder  
-<details><summary>`objc`🔥🔥</summary>  https://github.com/ColinEberhardt/ReactNative-PropertyFinder<br>  Added April 10, 2015<br>  License: `other`
-  </details>
-</details> 
-- ReactNativeHackerNews  
-<details><summary>`objc`🔥</summary>  https://github.com/jsdf/ReactNativeHackerNews<br>  Added March 30, 2016<br>  License: `other`
+<details><summary>`reactnative` 🔥🔥</summary>  https://github.com/ColinEberhardt/ReactNative-PropertyFinder<br>  Added April 10, 2015<br>  License: `other`
   </details>
 </details> 
 - RSS Reader  
-<details><summary>`objc`</summary>  https://github.com/christopherdro/react-native-rss-reader<br>  Added June 22, 2015<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/christopherdro/react-native-rss-reader<br>  Added June 22, 2015<br>  License: `other`
   </details>
 </details> 
 - Songkick  
-<details><summary>`objc`</summary>  https://github.com/ArnaudRinquin/sk-react-native<br>  Added October 27, 2015<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/ArnaudRinquin/sk-react-native<br>  Added October 27, 2015<br>  License: `other`
   </details>
 </details> 
 - Spacepics: A small app displaying NASA's Picture of the Day  
-<details><summary>`objc`</summary>  https://github.com/campezzi/react-native-spacepics<br>  Added May 26, 2015<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/campezzi/react-native-spacepics<br>  Added May 26, 2015<br>  License: `other`
   </details>
 </details> 
 - Sudoku  
-<details><summary>`objc`</summary>  https://github.com/christopherdro/react-native-sudoku<br>  Added March 10, 2016<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/christopherdro/react-native-sudoku<br>  Added March 10, 2016<br>  License: `other`
   </details>
 </details> 
 - TicTacToe: App by Facebook  
-<details><summary>`objc`</summary>  https://github.com/facebook/react-native/tree/master/Examples/TicTacToe<br>  Added February  5, 2016<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/facebook/react-native/tree/master/Examples/TicTacToe<br>  Added February  5, 2016<br>  License: `other`
   </details>
 </details> 
 - To Do List  
-<details><summary>`objc`</summary>  https://github.com/joemaddalone/react-native-todo<br>  Added June 20, 2016<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/joemaddalone/react-native-todo<br>  Added June 20, 2016<br>  License: `other`
   </details>
 </details> 
 - To Do List (Redux): Uses Redux for managing app state  
-<details><summary>`objc`</summary>  https://github.com/uiheros/react-native-redux-todo-list<br>  Added June 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` </summary>  https://github.com/uiheros/react-native-redux-todo-list<br>  Added June 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Twitch  
-<details><summary>`objc`</summary>  https://github.com/IFours/react-native-twitch<br>  Added February  4, 2016<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/IFours/react-native-twitch<br>  Added February  4, 2016<br>  License: `other`
   </details>
 </details> 
 - UIExplorer: App by Facebook  
-<details><summary>`objc`</summary>  https://github.com/facebook/react-native/tree/master/Examples/UIExplorer<br>  Added February  5, 2016<br>  License: `other`
+<details><summary>`reactnative` </summary>  https://github.com/facebook/react-native/tree/master/Examples/UIExplorer<br>  Added February  5, 2016<br>  License: `other`
   </details>
 </details> 
 - Weather by JakeLin  
-<details><summary>`objc`</summary>  https://github.com/JakeLin/ReactNativeWeather<br>  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` </summary>  https://github.com/JakeLin/ReactNativeWeather<br>  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Weather by jsphkhan  
-<details><summary>`objc`</summary>  https://github.com/jsphkhan/ReactNativeExamples<br>  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp<br>  Added May  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` </summary>  https://github.com/jsphkhan/ReactNativeExamples<br>  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp<br>  Added May  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 
@@ -2789,7 +2785,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - Calculator: React Native calculator  
-<details><summary>`objc`🔥🔥🔥🔥🔥</summary>  https://github.com/benoitvallon/react-native-nw-react-calculator<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/benoitvallon/react-native-nw-react-calculator<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Free42: A re-implementation of the HP-42S Calculator and the HP-82240 printer [` App Store`](https://itunes.apple.com/app/id337692629)  
