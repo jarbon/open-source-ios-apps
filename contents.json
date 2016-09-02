@@ -1118,6 +1118,7 @@
         "conference",
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/mikkoj/NortalTechDay",
       "stars": 190,
       "license": "mit",
@@ -1127,8 +1128,7 @@
     {
       "title": "Parse 2013 Developer Day",
       "category-ids": [
-        "conference",
-        "react-native"
+        "conference"
       ],
       "source": "https://github.com/ParsePlatform/ParseDeveloperDay",
       "stars": 92,
@@ -4072,6 +4072,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "homepage": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp",
       "source": "https://github.com/jsphkhan/ReactNativeExamples",
       "license": "mit",
@@ -5056,10 +5057,11 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "allyoop",
+      "title": "NBA allyoop",
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "NBA game scores",
       "license": "mit",
       "source": "https://github.com/wwayne/react-native-nba-app",
@@ -5072,6 +5074,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/2048",
       "license": "other",
@@ -5083,6 +5086,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/Movies",
       "license": "other",
@@ -5094,6 +5098,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/TicTacToe",
       "license": "other",
@@ -5105,7 +5110,9 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "App by Facebook",
+      "tags": ["reactnative"],
       "source": "https://github.com/facebook/react-native/tree/master/Examples/UIExplorer",
       "license": "other",
       "date_added": "Fri, 5 Feb 2016 07:55:10 -0800",
@@ -5116,6 +5123,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "Display Instagram photos around your location",
       "source": "https://github.com/bgryszko/react-native-example",
       "stars": 100,
@@ -5128,6 +5136,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "Developer-focused Meetup clone",
       "source": "https://github.com/buildreactnative/assemblies",
       "stars": 181,
@@ -5141,6 +5150,7 @@
         "react-native",
         "calculator"
       ],
+      "tags": ["reactnative"],
       "description": "React Native calculator",
       "license": "mit",
       "source": "https://github.com/benoitvallon/react-native-nw-react-calculator",
@@ -5153,6 +5163,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "homepage": "https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter",
       "source": "https://github.com/ashwinpreet/ReactNativeExamples",
       "license": "mit",
@@ -5165,6 +5176,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "View houses for sale in the Northwest",
       "license": "mit",
       "source": "https://github.com/asamiller/den",
@@ -5177,6 +5189,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "license": "mit",
       "source": "https://github.com/catalinmiron/react-native-dribbble-app",
       "stars": 1264,
@@ -5188,6 +5201,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "Official F8 app",
       "source": "https://github.com/fbsamples/f8app",
       "stars": 7139,
@@ -5203,6 +5217,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/brentvatne/react-native-login",
       "stars": 450,
       "license": "other",
@@ -5215,6 +5230,7 @@
         "react-native",
         "clone"
       ],
+      "tags": ["reactnative"],
       "description": "iOS's Stocks app written in React Native",
       "license": "mit",
       "source": "https://github.com/7kfpun/FinanceReactNative",
@@ -5227,6 +5243,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/peralmq/ForeignExchangeApp",
       "stars": 11,
       "license": "other",
@@ -5234,10 +5251,11 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "HackerNews-React-Native",
+      "title": "Hacker News app by iSimar",
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "license": "mit",
       "source": "https://github.com/iSimar/HackerNews-React-Native",
       "itunes": "https://itunes.apple.com/app/hacker-news-reader-react-native/id1067161633",
@@ -5250,6 +5268,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "license": "mit",
       "source": "https://github.com/paranoida/IcelandEarthquakes",
       "stars": 23,
@@ -5261,6 +5280,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/alexissan/ReactNativeWorkshop",
       "stars": 42,
       "license": "other",
@@ -5272,6 +5292,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/JoeStanton/london-react",
       "stars": 40,
       "license": "other",
@@ -5283,6 +5304,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "News app based on YouTube playlists",
       "source": "https://github.com/bradoyler/newswatch-react-native",
       "stars": 93,
@@ -5295,6 +5317,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "Lightweight Node REPL",
       "source": "https://github.com/mzabriskie/PocketNode",
       "stars": 47,
@@ -5307,6 +5330,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "Product Hunt app",
       "source": "https://github.com/rkho/product-kitty",
       "stars": 107,
@@ -5319,6 +5343,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/ColinEberhardt/ReactNative-PropertyFinder",
       "stars": 258,
       "license": "other",
@@ -5326,10 +5351,11 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "ReactNativeHackerNews",
+      "title": "Hacker News app by jsdf",
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/jsdf/ReactNativeHackerNews",
       "stars": 198,
       "license": "other",
@@ -5341,6 +5367,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/christopherdro/react-native-rss-reader",
       "stars": 84,
       "license": "other",
@@ -5352,6 +5379,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/ArnaudRinquin/sk-react-native",
       "stars": 92,
       "license": "other",
@@ -5363,6 +5391,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "A small app displaying NASA's Picture of the Day",
       "source": "https://github.com/campezzi/react-native-spacepics",
       "stars": 16,
@@ -5375,6 +5404,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/christopherdro/react-native-sudoku",
       "stars": 41,
       "license": "other",
@@ -5386,6 +5416,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/joemaddalone/react-native-todo",
       "stars": 95,
       "license": "other",
@@ -5397,6 +5428,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/IFours/react-native-twitch",
       "stars": 74,
       "license": "other",
@@ -5408,6 +5440,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "license": "mit",
       "source": "https://github.com/JakeLin/ReactNativeWeather",
       "stars": 16,
@@ -7094,6 +7127,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "Uses Redux for managing app state",
       "source": "https://github.com/uiheros/react-native-redux-todo-list",
       "license": "mit",
@@ -7510,6 +7544,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "NBA stats and standings",
       "license": "mit",
       "source": "https://github.com/jbkuczma/NBAreact",
@@ -8008,6 +8043,7 @@
         "sample",
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/fangwei716/30-days-of-react-native",
       "license": "mit",
       "stars": 1167,
