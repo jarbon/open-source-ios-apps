@@ -32,83 +32,94 @@ end
 def output_apps(apps)
   o = ''
   apps.each do |a|
-      name = a['title']
-      link = a['source']
-      itunes = a['itunes']
-      homepage = a['homepage']
-      desc = a['description']
-      tags = a['tags']
-      stars = a['stars']
-      lang = a['lang']
+    name = a['title']
+    link = a['source']
+    itunes = a['itunes']
+    homepage = a['homepage']
+    desc = a['description']
+    tags = a['tags']
+    stars = a['stars']
+    lang = a['lang']
 
-      date_added = a['date_added']
-      screenshots = a['screenshots']
-      license = a['license']
+    date_added = a['date_added']
+    screenshots = a['screenshots']
+    license = a['license']
 
-      o << "- #{name}"
+    t = "#{name}"
 
-      if desc.nil?
-        o << ' '
-      else
-        o << ": #{desc} " if desc.size>0
-      end
+    if desc.nil?
+      t << ' '
+    else
+      t << ": #{desc} " if desc.size>0
+    end
 
-      unless itunes.nil?
-        o << "[` App Store`](#{itunes}) "
-      end
+    unless itunes.nil?
+      t << "[` App Store`](#{itunes}) "
+    end
+
+    unless lang.nil?
+      t << output_flag(lang)
+    end
+
+    unless stars.nil?
+      t << output_stars(stars)
+    end
+    o << "- #{t} \n"
+
+    o <<  "<details><summary>"
+    if tags.nil?
+      o << '`objc`'
+    else
+      details = ''
 
       unless tags.nil?
-        o << '`Swift` ' if tags.include? 'swift'
+        details << '`swift` ' if tags.include? 'swift'
       end
 
-      unless lang.nil?
-        o << output_flag(lang)
+      tags.each do |t|
+        details << "`#{t.downcase}` " if t.downcase!='swift'
       end
+      o << details
+      # o << "\n"
+    end
 
-      unless stars.nil?
-        o << output_stars(stars)
+    o << "</summary>"
+
+    details_list = []
+
+    details_list.push link
+
+    unless homepage.nil?
+      details_list.push homepage
+    end
+
+    unless date_added.nil?
+      date = DateTime.parse(date_added)
+      formatted_date = date.strftime "%B %e, %Y"
+      details_list.push "Added #{formatted_date}"
+    end
+
+    unless license.nil?
+      license_display = license=='other'? "`#{license}`" : "[`#{license}`](http://choosealicense.com/licenses/#{license}/)"
+      details_list.push "License: #{license_display}"
+    end
+
+    details = '  '
+    details << details_list[0]
+    details_list[1..-1].each { |x| details << "<br>  #{x}" }
+
+    unless screenshots.nil?
+      details << "\n<div>"
+      screenshots.each_with_index do |s, i|
+        details << "<img height='300' alt='#{name} image #{i+1}' src='#{screenshots[i]}'> "
       end
+      details << "\n</div>"
+    end
 
-      o << "\n"
+    details << "\n  </details>\n"
+    o << details
 
-      show_details = !homepage.nil? || !screenshots.nil? || !license.nil? || !date_added.nil?
-
-      if (!show_details)
-        o << "  - #{link}\n"
-      else
-        details = "  <details><summary>#{link}</summary>\n"
-
-        details_list = []
-        unless date_added.nil?
-          date = DateTime.parse(date_added)
-          formatted_date = date.strftime "%B %e, %Y"
-          details_list.push "Added #{formatted_date}"
-        end
-
-        unless license.nil?
-          license_display = license=='other'? "`#{license}`" : "[`#{license}`](http://choosealicense.com/licenses/#{license}/)"
-          details_list.push "License: #{license_display}"
-        end
-
-        unless homepage.nil?
-          details_list.push homepage
-        end
-
-        details << '  '
-        details << details_list[0]
-        details_list[1..-1].each { |x| details << "<br>  #{x}" }
-
-        unless screenshots.nil?
-          details << "\n<div>"
-          screenshots.each_with_index do |s, i|
-            details << "<img height='300' alt='#{name} image #{i+1}' src='#{screenshots[i]}'> "
-          end
-          details << "\n</div>"
-        end
-
-        details << "\n  </details>\n"
-        o << details
-      end
+    o << "</details> \n"
   end
   o
 end
